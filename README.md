@@ -16,19 +16,19 @@ You’ll leave with a practical model for encoding architectural decisions so AI
 - 45/60/75-minute session
 
 ## Tags
-![Infrastrcuture as Code](https://img.shields.io/badge/Tag-Infrastructure%20as%20Code-blue) ![Platform Engineering](https://img.shields.io/badge/Tag-Platform%20Engineering-blue)  ![DevOps](https://img.shields.io/badge/Tag-DevOps-blue) ![Terraform](https://img.shields.io/badge/Tag-Terraform-blue) ![AI](https://img.shields/io/badge/Tag-AI-blue)
+![Infrastrcuture as Code](https://img.shields.io/badge/Tag-Infrastructure%20as%20Code-blue) ![Platform Engineering](https://img.shields.io/badge/Tag-Platform%20Engineering-blue)  ![DevOps](https://img.shields.io/badge/Tag-DevOps-blue) ![Terraform](https://img.shields.io/badge/Tag-Terraform-blue) ![AI](https://img.shields.io/badge/Tag-AI-blue)
 
 ## Learning Objectives
 
 - **Understand why AI excels at interpreting architecture intent but fails at deterministic Terraform generation**, and why this distinction is critical for governed infrastructure.
 - **Learn how to convert human‑written architecture documentation into a machine‑readable YAML contract** that encodes naming, modules, parameters, and governance rules.
-- **Apply a two‑stage pipeline—AI for interpretation, deterministic scripts for generation—to produce consistent, standards‑aligned Terraform at scale**, reducing delivery time from weeks to days.
+- **Apply a two‑stage pipeline (AI for interpretation, deterministic scripts for generation) to produce consistent, standards‑aligned Terraform at scale**, reducing delivery time from weeks to days.
 
 ## Presentations
 
 | Event | Location | Date | Time | Room | Downloads |
 |-------|:--------:|-----:|-----:|-----:|----------:|
-| Momentum Developer Conference | Cincinnati, OH | 2026-10-15 | 11:25 EDT | Ballroom A | Available Afterwards |
-| AI Rising | Columbus, OH | 2026-10-20 | 10:10 EDT | Greate Hall Meeting Room 3 | Available Afterwards |
+| [Momentum Developer Conference](https://momentumdevcon.com/session/1248474) | Cincinnati, OH | 2026-10-15 | 11:25 EDT | Ballroom A | [Slides](EventMaterials/FromArchitectureToTerraform_Momentum.pdf) | [Demo](https://github.com/TaleLearnCode/AutomatedTerraformGeneratorDemo) |
+| [AI Rising](https://www.airising.org/ai-rising-conference-2026) | Columbus, OH | 2026-10-20 | 10:10 EDT | Great Hall Meeting Room 3 | [Slides](EventMaterials/FromArchitectureToTerraform_Momentum.pdf) | [Demo](https://github.com/TaleLearnCode/AutomatedTerraformGeneratorDemo) |
 
 Email [chadgreen@chadgreen.com](mailto:chadgreen@chadgreen.com?subject=Presentation%20Request:%20Presentation%20Title) to have Chad present this session at your event.
